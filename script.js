@@ -1,3 +1,9 @@
+window.addEventListener('load', function() {
+  alert('Welcome to our website!');
+});
+
+
+
 var output = [ ];
 var count = 1;
 

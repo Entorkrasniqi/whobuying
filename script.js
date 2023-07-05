@@ -1,3 +1,23 @@
+window.onload = function() {
+    // Access an HTML element by its ID
+    var myElement = document.getElementById("myElementId");
+    
+    // Manipulate the element
+    myElement.innerHTML = "Hello, JavaScript!";
+  };
+  
+  // Example JavaScript code
+  window.onload = function() {
+    // Access an HTML element by its ID
+    var myElement = document.getElementById("myElementId");
+    
+    // Manipulate the element
+    myElement.innerHTML = "Hello, JavaScript!";
+  };
+
+
+
+
 window.addEventListener('load', function() {
   alert('Welcome to our website!');
 });
